@@ -1,0 +1,65 @@
+.head{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+
+}
+.body{
+  text-align: center;  
+padding: 20px;
+margin: top 20px;
+justify-content: center;
+align-items: center;
+}
+
+.one{
+    
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+
+    
+}
+.two{
+    
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+
+}
+
+.three{
+    
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+
+}
+
+.four{
+
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+
+}
+button{
+    background-color: black;
+    color: white;
+}
+.form{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+h4{
+    background-color: yellow;
+    color: white;
+    display: inline-block;
+    width: 300px;
+    text-align: center;
+}
+
+
